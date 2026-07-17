@@ -1,0 +1,70 @@
+Well coming across the process of learning I came across a three main prompt that is very essential learning across agentic engineering and these are those three prompts
+
+
+
+1. "Teach me why this architecture is chosen. Explain the trade-offs, then help me implement it step by step."
+
+
+2. "Act as a senior software engineer reviewing my AI agent. Find design flaws before giving improvements."
+
+
+3. "Give me hints first. Don't reveal the complete solution until I try."
+
+
+LLM LLM's are highly predictable It's a Highly next word predicting Transformer model  and etc ,etc ,etc... There are some best ways to actually use LLMS in this possible Vive let me discuss some of it
+
+
+1.Describe task
+What do you want to practice with ChatGPT?
+
+2. Set the goal
+What should the finished response help you achieve?
+
+3. Choose audience
+Who should the output be written for?
+
+4.Add intended use
+Tell ChatGPT what the output will be used for.
+
+5.Add specific details
+Include sections, requirements, or points to cover.
+
+Example prompt:
+
+Help me with my practice task: I need to practice computer networking. The goal is As the final responce I need to know how computers are networks and connection to eachother. The audience is I am a learner in college learning computer networking as a sem paper. The output should help me TO use computer networking in my softer development career. Include I need to know the basics and able to think practically about computer networking. Ask me for anything important that is missing before finalizing.
+
+
+Explain the task
+
+•
+Add source material or background
+
+•
+Say what good looks like
+
+
+The context matter:
+Chatgpt comes with three questions in common for context
+1. what are you trying to do?
+2. what info should charge GPT use 
+3. What would good response look like?
+
+
+Handle  context as you tell informations to the teammate in your team, The context should reduce GPT to guess
+
+01
+What is the task?
+Provide the action you want ChatGPT to take.
+
+02
+What information should it use?
+Provide background, files, sources, examples, audience, constraints, or goals.
+
+03
+What does good look like?
+Provide format, tone, length, sections, criteria, or examples.
+
+the liked prompts by me(1. tone and style:“Keep responses professional, clear, and concise. Use plain English for a global business audience.”
+
+2. “If something is uncertain, say so clearly. Do not guess, and tell me what information would make the answer stronger.”)
+
