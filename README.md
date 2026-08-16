@@ -11,21 +11,21 @@
 
 ## 📚 Course Directory & Navigation
 
-> - [🎓 Open AI Academy / Open AI Foundation 1](./Open%20AI%20Academy/Open%20AI%20Foundation%201/readme.md)
+> - [🎓 Open AI Academy / Open AI Foundation 1](./Open%20AI%20Academy/Open%20AI%20Foundation%201/README.md)
 >   - **Course:** OpenAI Academy AI Foundations (Part 1)
->   - **Contents:** Certificate (`certificate-5cnoxpp8oq.pdf`), Handwritten Notes (`manual notes.pdf`), Digitized Notes (`dig notes.md`), and Key Reflections (`my fev part.txt`).
+>   - **Files:** [`certificate-5cnoxpp8oq.pdf`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/certificate-5cnoxpp8oq.pdf) | [`manual notes.pdf`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/manual%20notes.pdf) | [`dig notes.md`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/dig%20notes.md) | [`my fev part.txt`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/my%20fev%20part.txt)
 >
 > ---
 >
 > - [🚀 Open AI Academy / Open AI Foundation 2](./Open%20AI%20Academy/Open%20AI%20Foundation%202/README.md)
 >   - **Course:** Applied AI Foundations (Part 2)
->   - **Contents:** Certificate (`certificate-4c4cy6svui.png`), Handwritten Notes (`Applied AI Foundation.pdf`), 5 Modular Study Guides, and Complete Digital Notes Hub.
+>   - **Files:** [`certificate-4c4cy6svui.png`](./Open%20AI%20Academy/Open%20AI%20Foundation%202/certificate-4c4cy6svui.png) | [`Applied AI Foundation.pdf`](./Open%20AI%20Academy/Open%20AI%20Foundation%202/Applied%20AI%20Foundation.pdf) | [`dig notes.md`](./Open%20AI%20Academy/Open%20AI%20Foundation%202/dig%20notes.md)
 >
 > ---
 >
 > - [🤖 Open AI Academy / Open AI Foundation 3](./Open%20AI%20Academy/Open%20AI%20Foundation%203/README.md)
 >   - **Course:** Agents and Workflows (Part 3)
->   - **Contents:** Certificate (`certificate-pt2m6qnnlr.png`), Handwritten Notes (`agents and workflows.pdf`), 4 Modular Study Guides, and Complete Digital Notes Hub.
+>   - **Files:** [`certificate-pt2m6qnnlr.png`](./Open%20AI%20Academy/Open%20AI%20Foundation%203/certificate-pt2m6qnnlr.png) | [`agents and workflows.pdf`](./Open%20AI%20Academy/Open%20AI%20Foundation%203/agents%20and%20workflows.pdf) | [`dig notes.md`](./Open%20AI%20Academy/Open%20AI%20Foundation%203/dig%20notes.md)
 
 ---
 
@@ -46,20 +46,13 @@
     ├── Open AI Foundation 2/           # Course 2: Applied AI Foundations
     │   ├── certificate-4c4cy6svui.png
     │   ├── Applied AI Foundation.pdf
-    │   ├── README.md
-    │   ├── 01-ai-workflows-foundation.md
-    │   ├── 02-reasoning-models.md
-    │   ├── 03-tools-plugins-capabilities.md
-    │   ├── 04-workflow-design-and-skills.md
-    │   └── 05-responsible-ai-workflows.md
+    │   ├── dig notes.md
+    │   └── README.md
     └── Open AI Foundation 3/           # Course 3: Agents and Workflows
         ├── certificate-pt2m6qnnlr.png
         ├── agents and workflows.pdf
-        ├── README.md
-        ├── 01-agent-workflow-fundamentals.md
-        ├── 02-project-briefs-and-prompts.md
-        ├── 03-packaging-skills-and-reflection.md
-        └── 04-the-7-step-agent-lifecycle.md
+        ├── dig notes.md
+        └── README.md
 ```
 
 ---
