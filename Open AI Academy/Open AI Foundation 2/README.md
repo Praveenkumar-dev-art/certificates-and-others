@@ -3,11 +3,23 @@
 [![OpenAI Academy](https://img.shields.io/badge/Course-OpenAI%20Academy-black?logo=openai)](https://academy.openai.com)
 [![Topic](https://img.shields.io/badge/Topic-AI%20Workflows%20%26%20Prompt%20Engineering-blue)](#)
 [![Format](https://img.shields.io/badge/Format-GitHub%20Markdown-brightgreen)](#)
-[![License](https://img.shields.io/badge/License-MIT-orange.svg)](#)
+[![Certificate ID](https://img.shields.io/badge/Certificate%20ID-4c4cy6svui-purple)](#)
 
 > **Welcome!** These are digitized, structured course notes transcribed and refined from the handwritten lecture notes of the **Applied AI Foundation** course at **OpenAI Academy**. 
 > 
 > This repository provides a comprehensive framework for building, designing, optimizing, and evaluating **AI Workflows**, utilizing **Reasoning Models**, integrating **Plugins & Project Management Tools (OpenProject, Notion, Slack)**, setting up **AI Skills**, and practicing **Responsible AI**.
+
+---
+
+## 📜 Course Completion Certificate
+
+![OpenAI Academy Course Completion Certificate - Applied AI Foundations](./certificate-4c4cy6svui.png)
+
+> **Recipient:** Praveen Kumar  
+> **Course:** Applied AI Foundations  
+> **Issued By:** OpenAI Academy  
+> **Date:** August 5, 2026  
+> **Certificate ID:** `4c4cy6svui`
 
 ---
 
@@ -157,17 +169,19 @@ Not all tasks should be fully automated. Use the **Task Categorization Matrix**:
 
 ## 🛠️ Repository Structure
 
+> - [`certificate-4c4cy6svui.png`](./certificate-4c4cy6svui.png) — Course Completion Certificate
 > - [`Applied AI Foundation.pdf`](./Applied AI Foundation.pdf) — Original handwritten lecture notes PDF
 > - [`01-ai-workflows-foundation.md`](./01-ai-workflows-foundation.md) — Module 1: AI Workflows & Foundational Frameworks
 > - [`02-reasoning-models.md`](./02-reasoning-models.md) — Module 2: Reasoning Models & Structured Prompting
-> - [`03-tools-capabilities.md`](./03-tools-plugins-capabilities.md) — Module 3: Tools, Plugins & AI Capability Selection
-> - [`04-workflow-design.md`](./04-workflow-design-and-skills.md) — Module 4: Workflow Design & Setting Up AI Skills
-> - [`05-responsible-ai.md`](./05-responsible-ai-workflows.md) — Module 5: Responsible AI Workflows & Human Oversight
+> - [`03-tools-plugins-capabilities.md`](./03-tools-plugins-capabilities.md) — Module 3: Tools, Plugins & AI Capability Selection
+> - [`04-workflow-design-and-skills.md`](./04-workflow-design-and-skills.md) — Module 4: Workflow Design & Setting Up AI Skills
+> - [`05-responsible-ai-workflows.md`](./05-responsible-ai-workflows.md) — Module 5: Responsible AI Workflows & Human Oversight
 
 ---
 
 ## ✍️ Attribution & Acknowledgments
 
-- **Course:** Applied AI Foundation – OpenAI Academy
-- **Notes Created By:** Course Participant
+- **Course:** Applied AI Foundations – OpenAI Academy
+- **Recipient:** Praveen Kumar
+- **Certificate ID:** `4c4cy6svui`
 - **Format:** Formatted and digitized for open publishing on GitHub.
