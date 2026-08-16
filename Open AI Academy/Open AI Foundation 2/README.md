@@ -69,7 +69,6 @@ mindmap
       Review
     Tools & Capabilities
       Plugins & APIs
-      OpenProject Kanban
       Data & Deep Research
     Skill Setup
       Instructions & Preferences
