@@ -1,11 +1,11 @@
-# 🎓 AI Certifications & Applied Learning Repository
+# 🎓 Personal AI Learning Portfolio & Course Certifications
 
-[![License](https://img.shields.io/badge/License-MIT-orange.svg)](#)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](./LICENSE)
 [![Format](https://img.shields.io/badge/Format-GitHub%20Markdown-brightgreen)](#)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Praveenkumar-dev-art/certificates-and-others)
 
-> **Welcome to the Central Repository!**  
-> This repository stores educational materials, course certificates, digital study guides, and handwritten lecture notes from courses completed across **OpenAI Academy**, **Anthropic**, and other learning platforms.
+> **Welcome to my Personal AI Learning Portfolio!**  
+> This repository documents my educational journey, personal handwritten lecture notes, digital study guides, and completion credentials from professional AI courses across **Anthropic**, **OpenAI Academy**, and partner institutions.
 
 ---
 
@@ -14,36 +14,36 @@
 ### 1. 🏛️ [Anthropic Course Portfolio](./Anthropic%20course/README.md)
 > - [🧠 Anthropic / AI Fluency: Framework & Foundations](./Anthropic%20course/Ai%20fluency/README.md)
 >   - **Focus:** 4-D Framework (Delegation, Description, Discernment, Diligence), Interaction Modes, Prompt Patterns & Safety Governance.
->   - **Key Materials:** [`certificate`](./Anthropic%20course/Ai%20fluency/certificate-csts6h9zbjgx-1787590467.pdf) | [`dig notes.md`](./Anthropic%20course/Ai%20fluency/dig%20notes.md) | [`lecture notes`](./Anthropic%20course/Ai%20fluency/anthropic%20Ai-Fluency%201.pdf)
+>   - **Key Materials:** [`certificate`](./Anthropic%20course/Ai%20fluency/certificate-csts6h9zbjgx-1787590467.pdf) | [`dig notes.md`](./Anthropic%20course/Ai%20fluency/dig%20notes.md) | [`handwritten notes`](./Anthropic%20course/Ai%20fluency/anthropic%20Ai-Fluency%201.pdf)
 
 ---
 
 ### 2. 🎓 [OpenAI Academy Portfolio](./Open%20AI%20Academy/README.md)
 > - [🎓 Open AI Academy / Open AI Foundation 1](./Open%20AI%20Academy/Open%20AI%20Foundation%201/readme.md)
 >   - **Course:** OpenAI Academy AI Foundations (Part 1)
->   - **Key Materials:** [`certificate`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/certificate-5cnoxpp8oq.pdf) | [`dig notes.md`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/dig%20notes.md) | [`manual notes.pdf`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/manual%20notes.pdf)
+>   - **Key Materials:** [`certificate`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/certificate-5cnoxpp8oq.pdf) | [`dig notes.md`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/dig%20notes.md) | [`handwritten notes`](./Open%20AI%20Academy/Open%20AI%20Foundation%201/manual%20notes.pdf)
 >
 > ---
 >
 > - [🚀 Open AI Academy / Open AI Foundation 2](./Open%20AI%20Academy/Open%20AI%20Foundation%202/README.md)
 >   - **Course:** Applied AI Foundations (Part 2)
->   - **Key Materials:** [`certificate`](./Open%20AI%20Academy/Open%20AI%20Foundation%202/certificate-4c4cy6svui.png) | [`dig notes.md`](./Open%20AI%20Academy/Open%20AI%20Foundation%202/dig%20notes.md) | [`Applied AI Foundation.pdf`](./Open%20AI%20Academy/Open%20AI%20Foundation%202/Applied%20AI%20Foundation.pdf)
+>   - **Key Materials:** [`certificate`](./Open%20AI%20Academy/Open%20AI%20Foundation%202/certificate-4c4cy6svui.png) | [`dig notes.md`](./Open%20AI%20Academy/Open%20AI%20Foundation%202/dig%20notes.md) | [`handwritten notes`](./Open%20AI%20Academy/Open%20AI%20Foundation%202/Applied%20AI%20Foundation.pdf)
 >
 > ---
 >
 > - [🤖 Open AI Academy / Open AI Foundation 3](./Open%20AI%20Academy/Open%20AI%20Foundation%203/README.md)
 >   - **Course:** Agents and Workflows (Part 3)
->   - **Key Materials:** [`certificate`](./Open%20AI%20Academy/Open%20AI%20Foundation%203/certificate-pt2m6qnnlr.png) | [`dig notes.md`](./Open%20AI%20Academy/Open%20AI%20Foundation%203/dig%20notes.md) | [`agents and workflows.pdf`](./Open%20AI%20Academy/Open%20AI%20Foundation%203/agents%20and%20workflows.pdf)
+>   - **Key Materials:** [`certificate`](./Open%20AI%20Academy/Open%20AI%20Foundation%203/certificate-pt2m6qnnlr.png) | [`dig notes.md`](./Open%20AI%20Academy/Open%20AI%20Foundation%203/dig%20notes.md) | [`handwritten notes`](./Open%20AI%20Academy/Open%20AI%20Foundation%203/agents%20and%20workflows.pdf)
 
 ---
 
-## 🛠️ Repository Organization
+## 🛠️ Repository Structure
 
 ```text
 .
-├── README.md                           # Main Repository Landing Page
+├── LICENSE                             # Educational License & Trademark Disclaimers
+├── README.md                           # Central Portfolio Landing Page
 ├── ai-instruction.md                   # AI Assistant Rules & Formatting Guidelines
-├── LICENSE                             # Repository License
 ├── Anthropic course/
 │   ├── README.md                       # Anthropic Portfolio Overview
 │   └── Ai fluency/                     # Course: AI Fluency: Framework & Foundations
@@ -73,5 +73,8 @@
 
 ---
 
-## ✍️ Repository Guidelines
-All updates in this repository adhere to the guidelines set in [`ai-instruction.md`](./ai-instruction.md).
+## ⚖️ Educational & Trademark Disclaimer
+
+> This repository contains personal study notes, handwritten summaries, and completion certificates created by **Praveen Kumar** for educational and portfolio demonstration purposes.
+>
+> All product names, logos, and brands (including **OpenAI**, **ChatGPT**, **Anthropic**, **Claude**, **University College Cork**, **Ringling College of Art and Design**, **HEA**, and **National Forum**) are property of their respective owners. All company, product, and service names used in this repository are for identification and educational attribution purposes only. Use of these names, logos, and brands does not imply endorsement, sponsorship, or official affiliation.
